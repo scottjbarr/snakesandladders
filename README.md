@@ -8,7 +8,7 @@ for a front end.
 
 ## Install
 
-    go get install github.com/scottjbarr/snakesandladders/cmd/snakesandladders
+    go get github.com/scottjbarr/snakesandladders/cmd/snakesandladders
 
 
 ## Example
